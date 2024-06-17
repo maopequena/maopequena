@@ -2,6 +2,10 @@
 
 ## Bem-vindo(a) ao perfil da maopequena 😁
 
+Atualmente estudando HTML, CSS e JavaScript.
+
+Fun fact: também sou tradutora de inglês > português!
+
  <div>
    <a href="https://github.com/maopequena">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -14,8 +18,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />     
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
   <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
   
           
