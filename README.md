@@ -23,7 +23,8 @@ Fun fact: também sou tradutora de inglês > português!
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Trados Studio](https://www.trados.com/product/studio/)
+![Trados Studio](https://img.shields.io/badge/Trados%20Studio?logoColor=00a89f)
+)
 
 ## 📈 GitHub Stats
 
