@@ -59,7 +59,7 @@ Obrigada por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meu
  
 <br>
  
-### Me siga a gente nas redes sociais:
+### Me siga nas redes sociais:
  
 <div> 
   <a href="https://discord.gg/VqYHXxeqdq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
