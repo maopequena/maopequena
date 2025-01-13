@@ -8,14 +8,13 @@ Atualmente estou estudando HTML, CSS, JavaScript e Python.
 
 Fun fact: também sou tradutora de inglês > português!
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 🌱 I’m currently learning new technologies and improving my skills in web development.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything related to programming, especially JavaScript, Python, and web development. Also, translation!
-- 📫 How to reach me: [lizandra.c.s@gmail.com](mailto:lizandra.c.s@gmail.com)
+- 🌱 Atualmente, estou aprendendo novas tecnologias e melhorando minhas habilidades em desenvolvimento Web.
+- 💬 Podemos falar sobre qualquer coisa relacionada à programação, tradução ou filmes, séries e mnúsicas!
+- 📫 Entre em contato: [lizandra.c.s@gmail.com](mailto:lizandra.c.s@gmail.com)
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias e ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -26,11 +25,11 @@ Fun fact: também sou tradutora de inglês > português!
 ![Trados Studio](https://img.shields.io/badge/Trados_Studio-black)
 
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 ![maopequena's GitHub stats](https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&theme=dark)
 
-## 🔗 Connect with Me
+## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lizandracs)
 [![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/maopequena)
@@ -63,7 +62,6 @@ Obrigada por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meu
  
 <div> 
   <a href="https://discord.gg/VqYHXxeqdq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lizandra.c.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lizandracs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
