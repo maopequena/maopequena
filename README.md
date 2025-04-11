@@ -11,7 +11,7 @@ Fun fact: também sou tradutora de inglês > português!
 ## 🚀 Sobre mim
 
 - 🌱 Atualmente, estou aprendendo novas tecnologias e melhorando minhas habilidades em desenvolvimento Web.
-- 💬 Podemos falar sobre qualquer coisa relacionada à programação, tradução ou filmes, séries e mnúsicas!
+- 💬 Podemos falar sobre qualquer coisa relacionada à programação, tradução ou filmes, séries e músicas!
 - 📫 Entre em contato: [lizandra.c.s@gmail.com](mailto:lizandra.c.s@gmail.com)
 
 ## 🛠️ Tecnologias e ferramentas
