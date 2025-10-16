@@ -27,7 +27,7 @@ Fun fact: também sou tradutora de inglês > português!
 
 ## 📈 Estatísticas do GitHub
 
-![maopequena's GitHub stats](https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&theme=dark)
+![maopequena's GitHub stats](https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&locale=pt-br)
 
 ## 🔗 Links
 
@@ -40,8 +40,8 @@ Obrigada por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meu
 
  <div>
    <a href="https://github.com/maopequena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopequena&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maopequena&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopequena&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
 </div>
     
 <div style="display: inline_block"><br>
