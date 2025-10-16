@@ -40,7 +40,7 @@ Obrigada por visitar meu perfil! Sinta-se à vontade para dar uma olhada nos meu
 
  <div>
    <a href="https://github.com/maopequena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopequena&layout=compact&langs_count=6&theme=radical&locale=pt-br"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopequena&layout=donut&langs_count=6&theme=radical&locale=pt-br"/>
 </div>
     
 <div style="display: inline_block"><br>
